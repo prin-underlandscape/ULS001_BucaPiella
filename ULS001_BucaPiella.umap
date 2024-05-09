@@ -58,7 +58,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione} \n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo} {Tag primario}\n{{{Foto}|300}} \n##   [[{Link}|Link alla pagina dedicata]] \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -100,7 +100,7 @@
             "Copertura rete mobile": "Parziale",
             "Copertura GPS": "Parziale",
             "Data": "04-30-2023",
-            "Bibliografia": "Mencacci-Zecchini 1982, Lucca Romana, p. 220",
+            "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=3#h.qp4q0rfm6f9m",
             "ulsp_type": "Sito",
             "Titolo": "Buca della Piella",
             "Altitudine": "400",
